@@ -6,6 +6,9 @@ A list of resources for the Laravel framework.
 
 ## Websites (education)
 
+* [Larvel.IO Forum](http://laravel.io/forum)
+* [Laracasts](http://www.laracasts.com) &mdash; It's Like Netflix For Developers
+
 ## Packages
 
 * [Laravel 4 IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
