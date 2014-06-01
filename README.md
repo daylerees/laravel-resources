@@ -8,7 +8,7 @@ A list of resources for the Laravel framework.
 
 * [Larvel.IO Forum](http://laravel.io/forum)
 * [Laracasts](http://www.laracasts.com) &mdash; It's Like Netflix For Developers
-* [Laravel Newsletter](http://laravelweekly.com)
+* [Laravel Weekly](http://laravelweekly.com)
 
 ## Packages
 
