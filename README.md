@@ -16,3 +16,4 @@ A list of resources for the Laravel framework.
   - Generate Migrations from an existing Database
 
 ## Books
+* [Code Bright](https://leanpub.com/codebright) by [Dayle Rees](https://github.com/daylerees)
