@@ -15,6 +15,8 @@ A list of resources for the Laravel framework. (work in progress)
 * [Laracasts](http://www.laracasts.com)
   - It's Like Netflix For developers!
 * [Laravel Weekly](http://laravelweekly.com)
+* [Laravel Recipes](http://laravel-recipes.com/)
+* [Laravel-Tricks](http://www.laravel-tricks.com/)
 
 ## Packages
 
