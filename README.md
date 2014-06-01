@@ -18,16 +18,22 @@ A list of resources for the Laravel framework. (work in progress)
 
 ## Packages
 
-### Auth
-
+### Workflow
 * [Laravel 4 IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
-  - Code completion helper for your IDE.
+  - Code completion helper for your IDE
+  
+### Generators
+
 * [Jeffery Way Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
   - This Laravel 4 package provides a variety of generators to speed up your development process.
 * [Laravel Migrations Generator](https://github.com/barryvdh/laravel-migration-generator)
   - Generate Migrations from an existing Database
+
+### Auth & ACL
 * [Camelot Auth](https://github.com/taftse/camelot-auth)
   - Modular authentication library that supports OAuth 1 & 2, Local Auth and SAML2
+* [Entrust](https://github.com/Zizaco/entrust)
+  - Entrust provides a flexible way to add Role-based Permissions to Laravel4.
 
 ## Books
 
