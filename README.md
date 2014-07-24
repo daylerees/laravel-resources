@@ -30,6 +30,8 @@ A list of resources for the Laravel framework. (work in progress)
   - This Laravel 4 package provides a variety of generators to speed up your development process.
 * [Laravel Migrations Generator](https://github.com/barryvdh/laravel-migration-generator)
   - Generate Migrations from an existing Database
+* [Larry Four](https://github.com/XCMer/larry-four-generator)
+  - This package generates Models and Migrations from a text file. It can also create Migrations from existing tables.
 
 ### Auth & ACL
 * [Camelot Auth](https://github.com/taftse/camelot-auth)
