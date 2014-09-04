@@ -30,6 +30,8 @@ A list of resources for the Laravel framework. (work in progress)
   - This Laravel 4 package provides a variety of generators to speed up your development process.
 * [Laravel Migrations Generator](https://github.com/barryvdh/laravel-migration-generator)
   - Generate Migrations from an existing Database
+* [Blacksmith](https://github.com/indatus/blacksmith)
+  - Blacksmith is a code generation tool which automates the creation of common files that you'd typically create for each entity in your application.
 * [Larry Four](https://github.com/XCMer/larry-four-generator)
   - This package generates Models and Migrations from a text file. It can also create Migrations from existing tables.
 
@@ -43,3 +45,8 @@ A list of resources for the Laravel framework. (work in progress)
 
 * [Code Bright](https://leanpub.com/codebright) by [Dayle Rees](https://github.com/daylerees)
   - The number one Laravel 4 book for beginners!
+
+### Formers
+
+* [Former](https://github.com/Anahkiasen/former)
+  - A powerful form builder, for Laravel and other frameworks (stand-alone too) http://anahkiasen.github.io/former/
